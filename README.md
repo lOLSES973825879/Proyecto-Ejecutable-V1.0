@@ -1,2 +1,3 @@
 # Proyecto-Ejecutable-V1.0
-Si
+Revisa en "Release", ahí encontrarás mi archivo .exe :P
+
